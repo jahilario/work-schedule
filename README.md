@@ -18,4 +18,6 @@
 * Bootstrap
 * Moment.js
 
-## Website Acces
+## Website Access
+https://jahilario.github.io/work-schedule/
+
